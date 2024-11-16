@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alban Xhepi</h1>
-<h3 align="center">A passionate Backend developer from Albania</h3>
+<h3 align="center">A passionate AI, Data and Python engineer</h3>
 
-- 🔭 I’m currently working on **Smart Campus**
+- 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **PyTorch and TensorFlow**
+- 🌱 I’m currently learning **AI and Data Engineering**
 
-- 💬 Ask me about **ML, Django, LAMP**
+- 💬 Ask me about **ML, Django, FastApi**
 
 - 📫 How to reach me **axhepi21@gmail.com**
 
