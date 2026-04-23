@@ -30,7 +30,7 @@ Founder of **AgitexAI**, an AI engineering agency serving Series A–B and mid-m
 ## Connect
 
 - **Email** — axhepi21@gmail.com
-- **LinkedIn** — [linkedin.com/in/albanxhepi](https://linkedin.com/in/albanxhepi)
+- **LinkedIn** — [linkedin.com/in/albanxhepi](https://linkedin.com/in/alban-xhepi)
 - **Website** — [agitexai.com](https://agitexai.com)
 - **Dev.to** — [dev.to/albanxhepi21](https://dev.to/albanxhepi21)
 - **Kaggle** — [kaggle.com/albanxhepi](https://kaggle.com/albanxhepi)
